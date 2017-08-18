@@ -1,0 +1,21 @@
+.strong {
+    font-weight: 900;
+}
+.form-group {
+    font-size: 14px;
+}
+.itogo {
+    background-color: #f3f3f3;
+    border: 1px solid #f3f3f3;
+    border-radius: 10px;
+}
+.checkbox {
+    text-align: center;
+    font-size: 12px;
+}
+.form-control {
+    height: 45px;
+}
+.col-md-12-adress {
+    padding: 1rem;
+}
